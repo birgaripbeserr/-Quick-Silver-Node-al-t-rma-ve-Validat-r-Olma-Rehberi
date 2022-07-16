@@ -214,10 +214,10 @@ Ardından, doğrulayıcı durumuna yükseltmek için tx'i çalıştırmanız yet
       --min-self-delegation=1 \
       --pubkey=$($BINARY tendermint show-validator)
 
+Quick Silver Resmi Discord Kanalına Linkten girebiliriniz.
+https://discord.gg/CFMrPh9c
 
-## Quicksilver'da qAtoms basımının kullanılması
 
-Talimatlar önümüzdeki hafta erken gelecek!
 
 # Hesaplar:
 
